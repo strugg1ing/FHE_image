@@ -1,5 +1,5 @@
 **Tips：**
 
-`pip install tenseal
+`pip install tenseal`
 
-pip install opencv-python`
+`pip install opencv-python`
